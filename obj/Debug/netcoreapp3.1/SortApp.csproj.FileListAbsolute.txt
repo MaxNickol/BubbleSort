@@ -1,0 +1,13 @@
+E:\Projects\Sort\SortApp\bin\Debug\netcoreapp3.1\SortApp.exe
+E:\Projects\Sort\SortApp\bin\Debug\netcoreapp3.1\SortApp.deps.json
+E:\Projects\Sort\SortApp\bin\Debug\netcoreapp3.1\SortApp.runtimeconfig.json
+E:\Projects\Sort\SortApp\bin\Debug\netcoreapp3.1\SortApp.runtimeconfig.dev.json
+E:\Projects\Sort\SortApp\bin\Debug\netcoreapp3.1\SortApp.dll
+E:\Projects\Sort\SortApp\bin\Debug\netcoreapp3.1\SortApp.pdb
+E:\Projects\Sort\SortApp\obj\Debug\netcoreapp3.1\SortApp.csprojAssemblyReference.cache
+E:\Projects\Sort\SortApp\obj\Debug\netcoreapp3.1\SortApp.AssemblyInfoInputs.cache
+E:\Projects\Sort\SortApp\obj\Debug\netcoreapp3.1\SortApp.AssemblyInfo.cs
+E:\Projects\Sort\SortApp\obj\Debug\netcoreapp3.1\SortApp.csproj.CoreCompileInputs.cache
+E:\Projects\Sort\SortApp\obj\Debug\netcoreapp3.1\SortApp.dll
+E:\Projects\Sort\SortApp\obj\Debug\netcoreapp3.1\SortApp.pdb
+E:\Projects\Sort\SortApp\obj\Debug\netcoreapp3.1\SortApp.genruntimeconfig.cache
